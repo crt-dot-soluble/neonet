@@ -20,8 +20,8 @@ Each of which show off the engines ability to render geometry and make use of GP
 
 ### Compiling and Executing the Code
 - Clone the repo: 
-  https://github.com/crt-dot-soluble/neonet.git
+  `git clone https://github.com/crt-dot-soluble/neonet.git`
 - From the terminal Navigate to the directory you cloned the repository into and run the dotnet build command.
-  dotnet build 
+  `dotnet build`
 - You can now execute the assembly from the binary file located in client/bin/ or run the following command.
-  dotnet run
+  `dotnet run`
