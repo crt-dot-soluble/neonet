@@ -1,0 +1,12 @@
+X:\neonet\lib\obj\Debug\net7.0\lib.csproj.AssemblyReference.cache
+X:\neonet\lib\obj\Debug\net7.0\lib.GeneratedMSBuildEditorConfig.editorconfig
+X:\neonet\lib\obj\Debug\net7.0\lib.AssemblyInfoInputs.cache
+X:\neonet\lib\obj\Debug\net7.0\lib.AssemblyInfo.cs
+X:\neonet\lib\obj\Debug\net7.0\lib.csproj.CoreCompileInputs.cache
+X:\neonet\lib\bin\Debug\net7.0\lib.deps.json
+X:\neonet\lib\bin\Debug\net7.0\lib.dll
+X:\neonet\lib\bin\Debug\net7.0\lib.pdb
+X:\neonet\lib\obj\Debug\net7.0\lib.dll
+X:\neonet\lib\obj\Debug\net7.0\refint\lib.dll
+X:\neonet\lib\obj\Debug\net7.0\lib.pdb
+X:\neonet\lib\obj\Debug\net7.0\ref\lib.dll
