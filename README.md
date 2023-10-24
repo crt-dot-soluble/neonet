@@ -16,6 +16,7 @@ The neonet.client namespace contains three test implementations
 - TriangleTest
 - RectangleTest
 - TextureTest
+
 Each of which show off the engines ability to render geometry and make use of GPU shaders.
 
 ### Compiling and Executing the Code
